@@ -2,9 +2,12 @@
 
 <h3 align="left">I'm Gehad Sherif</h3>
 
-
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gehado2002&label=Visitors&color=ff69b4&style=for-the-badge" alt="Visitor Count" />
 </p>
 
 ---
@@ -27,4 +30,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
   </a>
 </p>
-
