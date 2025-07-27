@@ -2,16 +2,13 @@
 <h3 align="left">I'm Gehad Sherif</h3>
 
 <p align="center" style="margin-bottom: 20px;">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);" />
 </p>
 
 ---
+<p align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gehado2002&theme=light" height="160" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-right: 20px;" </p>
 
-<p align="center" style="margin-top: 0; margin-bottom: 40px;">
-  <img src="https://readme-stats-fork-mauve.vercel.app/api?username=gehado2002&theme=light&show_icons=true&count_private=true" height="160" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-right: 20px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gehado2002&theme=light" height="160" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-right: 20px;" />
-  <img src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=gehado2002&theme=light&layout=compact&langs_count=6" height="160" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
-</p>
 
 <hr style="border: none; border-top: 1px solid #eee; margin: 40px 0;" />
 
