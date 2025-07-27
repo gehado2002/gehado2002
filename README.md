@@ -1,5 +1,5 @@
 C:\Users\lenovo\Downloads\github-header-image.png
-<img src="C:\Users\lenovo\Downloads\github-header-image.png" alt="Profile Picture" width="150">
+<img src="[C:\Users\lenovo\Downloads\github-header-image.png](https://github.com/gehado2002/gehado2002/blob/main/github-header-image.png)" alt="Profile Picture" width="150">
 
 
 <h2 align="left">
