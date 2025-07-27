@@ -1,0 +1,22 @@
+name: Visitor Counter
+
+on:
+  schedule:
+    - cron: "0 * * * *"  # تحديث كل ساعة
+  workflow_dispatch:
+
+jobs:
+  update-counter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Count Visitors
+        run: |
+          echo "![Visitors](https://visitor-badge.laobi.icu/badge?page_id=${{ github.repository_owner }}.${{ github.repository }})" > visitors.md
+      - name: Commit Changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add visitors.md
+          git commit -m "Update visitor count"
+          git push
