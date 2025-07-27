@@ -1,10 +1,6 @@
-<h2 align="center">Hi there! 👋</h2>
+<h2 align="left">Hi there! 👋</h2>
 
-<h3 align="center">I'm Gehad Sherif</h3>
-
-[![GitHub Badge](https://img.shields.io/badge/-gehado2002-black?style=flat&logo=github&logoColor=white&link=https://github.com/gehado2002)](https://github.com/gehado2002)
-[![Linkedin Badge](https://img.shields.io/badge/-Gehad%20Sherif-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gehad-sherif-6447a3342/)](https://www.linkedin.com/in/gehad-sherif-6447a3342/)
-[![Gmail Badge](https://img.shields.io/badge/-gehado2002@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:gehado2002@gmail.com)](mailto:gehado2002@gmail.com)
+<h3 align="left">I'm Gehad Sherif</h3>
 
 
 <p align="center">
@@ -27,4 +23,8 @@
   <a href="https://www.linkedin.com/in/gehad-sherif-6447a3342/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
   </a>
+  <a href="mailto:gehado2002@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" height="40"/>
+  </a>
 </p>
+
