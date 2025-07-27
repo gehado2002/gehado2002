@@ -2,6 +2,8 @@
   <img src="https://github.com/gehado2002/gehado2002/blob/main/github-header-image.png" alt="GitHub Header" width="100%">
 </p>
 
+---
+
 ### 🌐 Social Media:
 <p align="center">
   <a href="https://github.com/gehado2002" target="_blank">
