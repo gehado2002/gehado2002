@@ -1,3 +1,7 @@
+C:\Users\lenovo\Downloads\github-header-image.png
+<img src="C:\Users\lenovo\Downloads\github-header-image.png" alt="Profile Picture" width="150">
+
+
 <h2 align="left">
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
