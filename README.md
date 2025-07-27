@@ -9,7 +9,22 @@
 
 <h2 align="left">👩🏻‍💻 About Me:</h2>
 
-- 🎓 I’m a **graduate of the Faculty of Artificial Intelligence**  
+- 🎓 I’m a **graduate of the Faculty of Artificial Intelligence**
+
+### 🌐 Social Media:
+
+<p align="left">
+  <a href="https://github.com/gehado2002" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/gehad-sherif-6447a3342/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/gehadsherif94/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" height="40"/>
+  </a>
+</p>
+
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
