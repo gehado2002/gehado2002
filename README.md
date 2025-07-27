@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gehado2002&label=Visitors&color=ff69b4&style=for-the-badge" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gehado2002.gehado2002&left_color=pink&right_color=purple" />
 </p>
 
 ---
