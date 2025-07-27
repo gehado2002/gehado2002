@@ -1,13 +1,8 @@
 <h2 align="left">Hi there! 👋</h2>
-
 <h3 align="left">I'm Gehad Sherif</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gehado2002.gehado2002&left_color=pink&right_color=purple" />
 </p>
 
 ---
