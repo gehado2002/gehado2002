@@ -2,6 +2,11 @@
 
 <h3 align="center">I'm Gehad Sherif</h3>
 
+[![GitHub Badge](https://img.shields.io/badge/-gehado2002-black?style=flat&logo=github&logoColor=white&link=https://github.com/gehado2002)](https://github.com/gehado2002)
+[![Linkedin Badge](https://img.shields.io/badge/-Gehad%20Sherif-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gehad-sherif-6447a3342/)](https://www.linkedin.com/in/gehad-sherif-6447a3342/)
+[![Gmail Badge](https://img.shields.io/badge/-gehado2002@gmail.com-c14438?style=flat&logo=gmail&logoColor=white&link=mailto:gehado2002@gmail.com)](mailto:gehado2002@gmail.com)
+
+
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 </p>
