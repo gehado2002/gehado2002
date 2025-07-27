@@ -9,7 +9,7 @@
 ---
 
 ### 👩🏻‍💻 About Me
-- 🎓 Graduate of the **Faculty of Artificial Intelligence**
+- 🎓 studied at **Faculty of Artificial Intelligence**
 - 🤖 Interested in learning and exploring AI
 
 ---
