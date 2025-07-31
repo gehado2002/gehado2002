@@ -17,11 +17,21 @@
 </p>
 
 ---
-<p align="center" style="margin-bottom: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gehado2002&theme=light" height="160" style="border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); margin-right: 20px;" </p>
+<p align="center" style="display: flex; gap: 20px; justify-content: center;">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=gehado2002&theme=transparent&background=E5E7EB&ring=EC4899&fire=22C55E&currStreakLabel=0EA5E9&sideNums=22C55E&sideLabels=EC4899&dates=0EA5E9" 
+    height="180" 
+    style="border-radius: 15px; border: 2px solid #ddd; padding: 10px; background: #E5E7EB;" 
+  />
+<p align="center">
+  <img src="https://github.com/gehado2002/gehado2002/raw/output/github-contribution-grid-snake.svg" />
+</p>
 
 
-<hr style="border: none; border-top: 1px solid #eee; margin: 40px 0;" />
+</p>
+
+
+
 
 ### 👩🏻‍💻 About Me
 <ul>
