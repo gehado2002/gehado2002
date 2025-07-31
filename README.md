@@ -32,7 +32,7 @@
 
 <hr style="border: none; border-top: 1px solid #eee; margin: 40px 0;" />
 
-### 🌐 Social Media
+### 💌 Social Media
 
 <p align="center">
 
