@@ -14,16 +14,6 @@
 
 ---
 
-<p align="center" style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=gehado2002&theme=transparent&background=E5E7EB&ring=EC4899&fire=22C55E&currStreakLabel=0EA5E9&sideNums=22C55E&sideLabels=EC4899&dates=0EA5E9" 
-    height="180" 
-    style="border-radius: 15px; border: 2px solid #ddd; padding: 10px; background: #E5E7EB;" 
-  />
-</p>
-
----
-
 ## 🌱 About Me
 🕊️ Graduate of Faculty of Artificial Intelligence  
 🌸 Curious about AI  
