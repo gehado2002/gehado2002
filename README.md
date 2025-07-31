@@ -44,9 +44,4 @@
   </a>
 </p>
 
-## 🐍 Snake Animation
-![Snake animation](https://raw.githubusercontent.com/GehadSherif/GehadSherif/output/github-contribution-grid-snake.svg)
-
-
-
 
