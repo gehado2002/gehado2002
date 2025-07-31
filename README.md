@@ -1,8 +1,8 @@
-<h2 align="left" style="display: flex; align-items: center;">
+<h1 align="left" style="display: flex; align-items: center;">
   Hi there!
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l1am42NHJlNHhyeGdscHIwc2NzcGplb2dkaHhlNXo3czdvZXE1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o7GDRqKfyKYrEDcmhC/giphy.gif" 
-       width="40" height="40" style="margin-left: 8px;" />
-</h2>
+       width="80" height="50" style="margin-left: 8px;" />
+</h1>
 
 <h3>I'm Gehad Sherif</h3>
 
@@ -32,7 +32,7 @@
 
 <hr style="border: none; border-top: 1px solid #eee; margin: 40px 0;" />
 
-### 💌 Social Media
+## 💌 Social Media
 
 <p align="center">
 
