@@ -22,32 +22,28 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gehado2002/gehado2002/output/github-snake.gif" />
-</p>
-
 ---
 
 ## 🌱 About Me
-
 🕊️ Graduate of Faculty of Artificial Intelligence  
 🌸 Curious about AI  
 💖 Love building projects to gain hands-on experience
 
 
-
 <hr style="border: none; border-top: 1px solid #eee; margin: 40px 0;" />
 
 ### 🌐 Social Media
-<p align="center">
-  <a href="https://github.com/gehado2002" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" width="55" height="55" />
-  </a>
-  <a href="https://www.linkedin.com/in/gehad-sherif-6447a3342/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="55" height="55" />
-  </a>
-  <a href="mailto:gehado2002@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="55" height="55" />
-  </a>
-</p>
 
+<p align="center">
+
+<a href="https://github.com/gehado2002" target="_blank" title="GitHub">
+  <img src="https://skillicons.dev/icons?i=github&theme=light" width="40" height="40" />
+</a> &nbsp;&nbsp;  
+<a href="https://www.linkedin.com/in/gehad-sherif-6447a3342/" target="_blank" title="LinkedIn">
+  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="40" height="40" />
+</a> &nbsp;&nbsp;  
+<a href="mailto:gehado2002@gmail.com" target="_blank" title="Email">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="40" height="40" />
+</a>
+
+</p>
