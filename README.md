@@ -1,17 +1,13 @@
 <h3>
-    <img src="<h3>
   <h2 align="left">
     Hi there!
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l1am42NHJlNHhyeGdscHIwc2NzcGplb2dkaHhlNXo3czdvZXE1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o7GDRqKfyKYrEDcmhC/giphy.gif" 
          width="80" height="80" style="vertical-align: middle; margin-left: 5px; transition: transform 0.3s;" />
+    
   </h2>
   I'm Gehad Sherif
 </h3>
-" 
-         width="55" height="60" style="vertical-align: middle; margin-left: 5px; transition: transform 0.3s;" />
-  </h1>
-  I'm Gehad Sherif
-</h3>
+
 
 
 <p align="center" style="margin-bottom: 20px;">
