@@ -43,4 +43,5 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" style="transition: transform 0.3s;" />
   </a>
 </p>
+![Snake animation](https://github.com/GehadSherif/GehadSherif/blob/output/github-contribution-grid-snake.svg)
 
