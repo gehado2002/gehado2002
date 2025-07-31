@@ -44,4 +44,5 @@
   </a>
 </p>
 
+![Hits](https://hits.sh/github.com/<USERNAME>/<REPO>.svg?style=flat-square)
 
