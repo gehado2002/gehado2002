@@ -38,13 +38,14 @@
 
 ### 🌐 Social Media
 <p align="center">
-  <a href="https://github.com/gehado2002" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" />
+  <a href="https://github.com/gehado2002" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=light" width="55" height="55" />
   </a>
-  <a href="https://www.linkedin.com/in/gehad-sherif-6447a3342/" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" />
+  <a href="https://www.linkedin.com/in/gehad-sherif-6447a3342/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="55" height="55" />
   </a>
-  <a href="mailto:gehado2002@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" />
+  <a href="mailto:gehado2002@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="55" height="55" />
   </a>
 </p>
+
