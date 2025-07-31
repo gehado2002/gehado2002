@@ -29,10 +29,12 @@
 ---
 
 ### 👩🏻‍💻 About Me
-<ul>
-  <li>🎓 Studied at <strong>Faculty of Artificial Intelligence</strong></li>
-  <li>🤖 Interested in learning and exploring AI</li>
-</ul>
+
+🎓 Graduate of Faculty of Artificial Intelligence  
+🤖 Curious about AI  
+🚀 Love building projects to gain hands-on experience
+
+
 
 <hr style="border: none; border-top: 1px solid #eee; margin: 40px 0;" />
 
