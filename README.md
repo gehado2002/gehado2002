@@ -24,8 +24,9 @@
     style="border-radius: 15px; border: 2px solid #ddd; padding: 10px; background: #E5E7EB;" 
   />
 <p align="center">
-  <img src="https://github.com/gehado2002/gehado2002/raw/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/gehado2002/gehado2002/output/github-contribution-grid-snake.svg" />
 </p>
+
 
 
 </p>
