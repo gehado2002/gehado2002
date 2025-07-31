@@ -28,11 +28,11 @@
 
 ---
 
-### 👩🏻‍💻 About Me
+## 🌱 About Me
 
-🎓 Graduate of Faculty of Artificial Intelligence  
-🤖 Curious about AI  
-🚀 Love building projects to gain hands-on experience
+🕊️ Graduate of Faculty of Artificial Intelligence  
+🌸 Curious about AI  
+💖 Love building projects to gain hands-on experience
 
 
 
