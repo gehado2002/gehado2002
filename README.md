@@ -1,8 +1,10 @@
-<h3>
-  <h2 align="left">
-    Hi there!
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l1am42NHJlNHhyeGdscHIwc2NzcGplb2dkaHhlNXo3czdvZXE1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o7GDRqKfyKYrEDcmhC/giphy.gif" 
-         width="80" height="80" style="vertical-align: middle; margin-left: 5px; transition: transform 0.3s;" />
+<h2 align="left" style="display: flex; align-items: center;">
+  Hi there!
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l1am42NHJlNHhyeGdscHIwc2NzcGplb2dkaHhlNXo3czdvZXE1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o7GDRqKfyKYrEDcmhC/giphy.gif" 
+       width="40" height="40" 
+       style="margin-left: 8px; transition: transform 0.3s;" />
+</h2>
+
     
   </h2>
   I'm Gehad Sherif
