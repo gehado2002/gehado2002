@@ -22,16 +22,17 @@
 
 <hr style="border: none; border-top: 1px solid #eee; margin: 40px 0;" />
 
-## 📂 Overview
-<p align="center">
-  🚀 This repository contains my <strong>Zero Grad Bootcamp Projects</strong><br>
-  where I build and share my hands-on learning journey in AI and programming.  
-  <br><br>
-  <a href="https://github.com/gehado2002/zero_grad" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Zero%20Grad%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
+## ✨ Overview  
+<div align="center" style="background: #f9f9f9; padding: 20px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.1); width: 90%; margin: auto;">
+  <h3>📂 Zero Grad Bootcamp Projects</h3>
+  <p style="font-size: 16px;">🚀 A collection of my projects during the Zero Grad Bootcamp, showcasing my AI and programming journey!</p>
+  <a href="https://github.com/gehado2002/zero_grad" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Visit%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
+
+---
 
 ## 💌 Social Media
 
