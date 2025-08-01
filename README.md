@@ -45,7 +45,7 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
 
-# 💌 Social Media <img src="https://media.tenor.com/SomWmdFyE6cAAAAj/marketing-business.gif" alt="Marketing GIF" width="60" />
+# Social Media <img src="https://media.tenor.com/SomWmdFyE6cAAAAj/marketing-business.gif" alt="Marketing GIF" width="60" />
 
 
 <p align="center" style="font-family: 'Poppins', sans-serif;">
