@@ -74,5 +74,5 @@
 </p>
 
 ## 💖 Thank You for Visiting!
-Made with ❤️ by gehad ✨
+Made with ❤️ 
 
