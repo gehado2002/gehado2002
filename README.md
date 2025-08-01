@@ -21,10 +21,11 @@
 
 ## 🌱 About Me
 <p style="font-family: 'Poppins', sans-serif; font-size: 15px; color: #444;">
-🕊️ Graduate of Faculty of Artificial Intelligence  
-🌸 Curious about AI  
-💖 Love building projects to gain hands-on experience
+  🕊️ Graduate of Faculty of Artificial Intelligence<br>
+  🌸 Curious about AI<br>
+  💖 Love building projects to gain hands-on experience
 </p>
+
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
 
