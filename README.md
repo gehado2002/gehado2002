@@ -38,9 +38,10 @@
     A collection of my projects during the Zero Grad Bootcamp, showcasing my AI and programming journey!
   </p>
   <a href="https://github.com/gehado2002/zero_grad" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20Visit%20Repository-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/🔗%20Visit%20Repository-ffd6e8?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </div>
+
 
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
