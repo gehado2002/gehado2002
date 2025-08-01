@@ -29,7 +29,7 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
 
-## ✨ Overview  
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWRveDI0Y3FlZ2NtOGVhc3N3b2RreHE3ZjljeDF3bDFmb2RnNTBxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sPALAxnFks3sRDs3YL/giphy.gif" width="80" />Overview  
 <div align="center" style="background:#fffefe; padding:20px; border-radius:10px; box-shadow:0 3px 10px rgba(0,0,0,0.05); width:85%; margin:auto; font-family:'Poppins',sans-serif;">
   <h3 style="font-weight:500; margin-bottom:10px;">📂 Zero Grad Bootcamp Projects</h3>
   
