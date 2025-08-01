@@ -67,8 +67,9 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
 
-<h4 align="center" style="font-size: 22px; font-weight: 600; color: #c94c7c; font-family: 'Poppins', sans-serif; margin: 0;">
-  💖 Thank you for visiting! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGNtNms0bGI5bXY0aG90N2J1aTdwaGhlM2F3dm8wbm1rbzVveDJ0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mEJfA07MrVFqWjerAa/giphy.gif" width="50"/>
-</h4>
-
+<p align="center" style="margin-bottom: 18px;">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc3bW44M3YxMDgzemFrMHVkZGs3NjdoZTU3eHloMXgwaDA0bnc5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AlxXs8i92YwGXBwbK7/giphy.gif" 
+       alt="Coder GIF" width="350" 
+       style="border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.08);" />
+</p>
 
