@@ -19,7 +19,7 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
 
-## 🌱 About Me  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNms3OWs0OTVnc3p6dmtuZ2VidHc1YzA4YWlsenVsMHhmYjZ3N3IxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Bh4sHwsRnojD5UX6B7/giphy.gif" width="60" />
+## About Me  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNms3OWs0OTVnc3p6dmtuZ2VidHc1YzA4YWlsenVsMHhmYjZ3N3IxMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Bh4sHwsRnojD5UX6B7/giphy.gif" width="60" />
 <p style="font-family: 'Poppins', sans-serif; font-size: 15px; color: #444;">
   🕊️ Graduate of Faculty of Artificial Intelligence<br>
   🌸 Curious about AI<br>
