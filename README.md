@@ -64,6 +64,4 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
 
-<p align="center" style="font-size: 17px; font-weight: 500; color: #c94c7c; font-family: 'Poppins', sans-serif;">
-  💖 Thank you for visiting! 🌸
-</p>
+### 💖 Thank you for visiting! 🌸
