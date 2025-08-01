@@ -42,7 +42,9 @@
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
 
-## 💌 Social Media
+# 💌 Social Media <img src="https://media.tenor.com/SomWmdFyE6cAAAAj/marketing-business.gif" alt="Marketing GIF" width="60" />
+
+
 <p align="center" style="font-family: 'Poppins', sans-serif;">
   <a href="https://github.com/gehado2002" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github&theme=light" width="34" height="34" />
@@ -54,6 +56,8 @@
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="34" height="34" />
   </a>
 </p>
+
+
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
 
