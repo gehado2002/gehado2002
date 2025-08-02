@@ -78,3 +78,5 @@
 </p>
 
 ## Made with 💛 
+
+![Unique Visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.counterapi.dev/v2/gehad/unique-visitors)
