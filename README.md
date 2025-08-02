@@ -30,7 +30,7 @@
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
 
 <h1 style="font-size: 40px;">
-  <img src="https://i.gifer.com/2vCn.gif" height="50" style="vertical-align: middle;"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThxY2c0YWMyc2Q0OTB5ZzF4aTR6cWNreG1iYmFmM2dzbDZoaTZyaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ObWmxoJ23hrZx26tk3/giphy.gif" height="50" style="vertical-align: middle;"/>
   Overview
 </h1>
 
