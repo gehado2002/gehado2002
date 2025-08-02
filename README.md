@@ -64,9 +64,6 @@
   <a href="mailto:gehado2002@gmail.com" target="_blank" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="34" height="34" />
   </a> &nbsp;&nbsp;  
-  <a href="https://www.instagram.com/gehadsherif94/" target="_blank" title="Instagram">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="34" height="34" />
-  </a>
 </p>
 
 
