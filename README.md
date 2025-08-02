@@ -72,8 +72,9 @@
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
 
 <p align="center" style="margin-bottom: 18px;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlqYXF3czFwbmxpN2tjOG5iN3NwbHJoc2FranJ0bW9ucGI4dmpyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rMpN6p1XMPB88PFOQG/giphy.gif" 
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWlqYXF3czFwbmxpN2tjOG5iN3NwbHJoc2FranJ0bW9ucGI4dmpyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rMpN6p1XMPB88PFOQG/giphy.gif" 
        alt="Coder GIF" width="250" 
+       style="border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.08);" /> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnN6NHg1eWx3NXJkNzNuNm04aW40YnZsdWJvdGJtdXJ2Y21sNnpkZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KkJNCtk4tFxrSG5MrH/giphy.gif" width="50" 
        style="border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.08);" />
 </p>
 
