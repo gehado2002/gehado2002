@@ -54,7 +54,6 @@
 
 # Social Media <img src="https://media.tenor.com/SomWmdFyE6cAAAAj/marketing-business.gif" alt="Marketing GIF" width="60" />
 
-
 <p align="center" style="font-family: 'Poppins', sans-serif;">
   <a href="https://github.com/gehado2002" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github&theme=light" width="34" height="34" />
@@ -64,8 +63,12 @@
   </a> &nbsp;&nbsp;  
   <a href="mailto:gehado2002@gmail.com" target="_blank" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="34" height="34" />
+  </a> &nbsp;&nbsp;  
+  <a href="https://www.instagram.com/gehadsherif94/" target="_blank" title="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=light" width="34" height="34" />
   </a>
 </p>
+
 
 
 
