@@ -81,5 +81,5 @@
 
 ## Made with 💙 
 
-#### 🌸 One day, I will have **Yaqeen**... *Insha’Allah* 🌸  
+#### 🌿 One day, I will have **Yaqeen**... *Insha’Allah* 🤲🌿 
 <img src="https://media.tenor.com/t-7phMPJvJQAAAAj/flower-cute.gif" width="60" />
