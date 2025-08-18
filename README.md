@@ -2,7 +2,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
 
 <h1 align="left" style="display: flex; align-items: center; font-weight: 500; font-family: 'Poppins', sans-serif;">
-  Hi there!
+
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdms5cWQwZTB3Nmw5Y2R4emg1Ymgza3lpOGticnFkM3Z1ZnVldXkxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/u3NqET5KZHkOs/giphy.gif" 
        width="70"  style="margin-left: 6px;" />
 </h1>
