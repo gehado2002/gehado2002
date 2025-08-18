@@ -13,8 +13,8 @@
 </h3>
 
 <p align="center" style="margin-bottom: 18px;">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
-       alt="Coder GIF" width="450" 
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRnMGY1OWVmcGI0d282eXRieW8wemIzaDEzdWQxdXdvcXZ6OHY5YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hq7O4BvUNmjLicWaST/giphy.gif" 
+       alt="Coder GIF" width="650" 
        style="border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.08);" />
 </p>
 
