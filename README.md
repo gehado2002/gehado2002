@@ -3,7 +3,7 @@
 
 <h1 style="font-weight: 400; font-family: 'Poppins', sans-serif;">
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlsdzEzOTI5dGJzNm14aWNtOWg1ZTVrenBzN2diN3N1MzB2b2E3MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ne4JdgCWClHPlKDh7n/giphy.gif" 
-       width="160"  style="margin-left: 6px;" /><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjh4NnFmZzVka255OHFhOWR0djE4cW5iM2QxbzFxdGl4YWNjYmQ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3ltOvrnrazTvS1IG3/giphy.gif" 
+       width="100"  style="margin-left: 6px;" /><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjh4NnFmZzVka255OHFhOWR0djE4cW5iM2QxbzFxdGl4YWNjYmQ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3ltOvrnrazTvS1IG3/giphy.gif" 
        width="100" height="45" style="margin-left: 6px;" /> Gehad Sherif
 </h1>
 
