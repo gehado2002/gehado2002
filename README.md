@@ -13,10 +13,11 @@
 </h3>
 
 <p align="center" style="margin-bottom: 18px;">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlyM2djZWxyZTdmMGI5bnhld3VuZ296b2xzOGgzZXc4anQwaG12aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EWFORs6la1W0OBBWbn/giphy.gif" 
        alt="Coder GIF" width="450" 
        style="border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.08);" />
 </p>
+
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
 
