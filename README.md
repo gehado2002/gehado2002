@@ -3,8 +3,8 @@
 
 <h1 align="left" style="display: flex; align-items: center; font-weight: 500; font-family: 'Poppins', sans-serif;">
   Hi there!
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2l1am42NHJlNHhyeGdscHIwc2NzcGplb2dkaHhlNXo3czdvZXE1MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o7GDRqKfyKYrEDcmhC/giphy.gif" 
-       width="70" height="45" style="margin-left: 6px;" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdms5cWQwZTB3Nmw5Y2R4emg1Ymgza3lpOGticnFkM3Z1ZnVldXkxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/u3NqET5KZHkOs/giphy.gif" 
+       width="70"  style="margin-left: 6px;" />
 </h1>
 
 <h3 style="font-weight: 400; font-family: 'Poppins', sans-serif;">
