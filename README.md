@@ -77,4 +77,3 @@
 ## Made with 💙 
 
 #### 🌿 One day, I will have **Yaqeen**... *Insha’Allah* 🤲🌿 
-<img src="https://media.tenor.com/t-7phMPJvJQAAAAj/flower-cute.gif" width="60" /> change big gif with https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlyM2djZWxyZTdmMGI5bnhld3VuZ296b2xzOGgzZXc4anQwaG12aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EWFORs6la1W0OBBWbn/giphy.gif
