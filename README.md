@@ -1,14 +1,9 @@
 <!-- ✅ استدعاء خط Poppins -->
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
 
-<h1 align="left" style="display: flex; align-items: center; font-weight: 500; font-family: 'Poppins', sans-serif;">
-
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdms5cWQwZTB3Nmw5Y2R4emg1Ymgza3lpOGticnFkM3Z1ZnVldXkxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/u3NqET5KZHkOs/giphy.gif" 
-       width="70"  style="margin-left: 6px;" />
-</h1>
-
 <h3 style="font-weight: 400; font-family: 'Poppins', sans-serif;">
-    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjh4NnFmZzVka255OHFhOWR0djE4cW5iM2QxbzFxdGl4YWNjYmQ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3ltOvrnrazTvS1IG3/giphy.gif" 
+      <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdms5cWQwZTB3Nmw5Y2R4emg1Ymgza3lpOGticnFkM3Z1ZnVldXkxYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/u3NqET5KZHkOs/giphy.gif" 
+       width="70"  style="margin-left: 6px;" /><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjh4NnFmZzVka255OHFhOWR0djE4cW5iM2QxbzFxdGl4YWNjYmQ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l3ltOvrnrazTvS1IG3/giphy.gif" 
        width="60" height="45" style="margin-left: 6px;" /> Gehad Sherif
 </h3>
 
