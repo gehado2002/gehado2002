@@ -77,5 +77,3 @@
 </p>
 
 ## Made with 💙 
-
-#### 🌿 One day, I will have **Yaqeen**... *Insha’Allah* 🤲🌿 
