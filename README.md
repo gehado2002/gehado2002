@@ -54,9 +54,11 @@
   <a href="https://github.com/gehado2002" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github&theme=light" width="34" height="34" />
   </a> &nbsp;&nbsp;  
-  <a href="https://www.linkedin.com/in/gehad-sherif-6447a3342/" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="34" height="34" />
+
+  <a href="https://share.streamlit.io/" target="_blank" title="Streamlit">
+    <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="34" height="34" />
   </a> &nbsp;&nbsp;  
+
   <a href="mailto:gehado2002@gmail.com" target="_blank" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="34" height="34" />
   </a> &nbsp;&nbsp;  
