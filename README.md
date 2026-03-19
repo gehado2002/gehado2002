@@ -51,7 +51,7 @@
 # Social Media <img src="https://media.tenor.com/SomWmdFyE6cAAAAj/marketing-business.gif" alt="Marketing GIF" width="60" />
 
 <p align="center" style="font-family: 'Poppins', sans-serif;">
-  <a href="https://github.com/gehado2002" target="_blank" title="GitHub">
+  <a href="https://share.streamlit.io/user/gehado2002" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github&theme=light" width="34" height="34" />
   </a> &nbsp;&nbsp;  
 
