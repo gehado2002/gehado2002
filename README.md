@@ -59,7 +59,7 @@
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="34" height="34" />
   </a> &nbsp;&nbsp;  
 
-  <a href="mailto:gehado2002@gmail.com" target="_blank" title="Email">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gehado2002@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=light" width="34" height="34" />
   </a> &nbsp;&nbsp;  
 </p>
