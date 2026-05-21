@@ -51,9 +51,10 @@
 # Social Media <img src="https://media.tenor.com/SomWmdFyE6cAAAAj/marketing-business.gif" alt="Marketing GIF" width="60" />
 
 <p align="center" style="font-family: 'Poppins', sans-serif;">
-  <a href="https://share.streamlit.io/user/gehado2002" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github&theme=light" width="34" height="34" />
-  </a> &nbsp;&nbsp;  
+   <!-- LinkedIn -->
+   <a href="https://www.linkedin.com/in/gehad-sherif-8882a740b/" target="_blank" title="LinkedIn">
+     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" width="34" height="34" />
+   </a> &nbsp;&nbsp;
 
   <a href="https://share.streamlit.io/user/gehado2002" target="_blank" title="Streamlit">
     <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="34" height="34" />
