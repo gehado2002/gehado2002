@@ -52,7 +52,7 @@
 
 <p align="center" style="font-family: 'Poppins', sans-serif;">
       
-<a href="https://www.linkedin.com/in/gehad-sherif-8882a740b/" target="_blank" title="LinkedIn">
+<a href="https://www.linkedin.com/in/gehad-sherif-7aa5b8420/" target="_blank" title="LinkedIn">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
        width="34" height="34" />
   </a> &nbsp;&nbsp;
