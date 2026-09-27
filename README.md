@@ -43,6 +43,22 @@
   </a>
 </div>
 
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
+
+<div align="center" style="background:#fffefe; padding:20px; border-radius:10px; box-shadow:0 3px 10px rgba(0,0,0,0.05); width:85%; margin:auto; font-family:'Poppins',sans-serif;">
+  <h3 style="font-weight:500; margin-bottom:10px;">📂 NTI Tasks</h3>
+
+  <p style="font-size:15px; color:#555; margin-top:0; display:flex; justify-content:center; align-items:center; gap:8px;">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnNuNHNycThqNWlka3AxcmF4NmxpM3RmYTB3d2t2MWlpZGg2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hpFCIpvGxUKgTfjRKl/giphy.gif" width="35" />
+    A collection of my tasks and projects completed during the NTI training, reflecting my learning and practical experience.
+  </p>
+
+  <a href="https://github.com/gehado2002/NTI_Tasks" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Visit%20Repository-d6f4ff?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</div>
+
+
 
 
 
