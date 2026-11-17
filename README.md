@@ -58,9 +58,19 @@
   </a>
 </div>
 
+<hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
 
+<div align="center" style="background:#fffefe; padding:20px; border-radius:10px; box-shadow:0 3px 10px rgba(0,0,0,0.05); width:85%; margin:auto; font-family:'Poppins',sans-serif;">
+  <h3 style="font-weight:500; margin-bottom:10px;">📂 Cody Girl Academy Bootcamp</h3>
 
+  <p style="font-size:15px; color:#555; margin-top:0;">
+    My tasks and hands-on work completed during the Cody Girl Academy bootcamp.
+  </p>
 
+  <a href="https://drive.google.com/drive/folders/1CPM1Exuogglnn_iBC_l1alr4TIrFdK4V" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20View%20Tasks-ffd9ec?style=for-the-badge&logo=googledrive&logoColor=black" />
+  </a>
+</div>
 
 <hr style="border: none; height: 2px; background: linear-gradient(to right, #ffd9ec, #d6f4ff); border-radius: 5px; margin: 25px 0;">
 
@@ -94,4 +104,4 @@
        style="border-radius: 10px; box-shadow: 0 3px 10px rgba(0,0,0,0.08);" />
 </p>
 
-## Made with 💙 
+## Made with 💙
