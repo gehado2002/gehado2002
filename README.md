@@ -64,11 +64,11 @@
   <h3 style="font-weight:500; margin-bottom:10px;">📂 Cody Girl Academy Bootcamp</h3>
 
   <p style="font-size:15px; color:#555; margin-top:0;">
-    My tasks and hands-on work completed during the Cody Girl Academy bootcamp.
+    My Telco project completed during the Cody Girl Academy bootcamp.
   </p>
 
-  <a href="https://drive.google.com/drive/folders/1CPM1Exuogglnn_iBC_l1alr4TIrFdK4V" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20View%20Tasks-ffd9ec?style=for-the-badge&logo=googledrive&logoColor=black" />
+  <a href="https://github.com/gehado2002/YOUR_TELCO_REPO" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20View%20Telco%20Project-ffd9ec?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </div>
 
