@@ -67,7 +67,7 @@
     My Telco project completed during the Cody Girl Academy bootcamp.
   </p>
 
-  <a href="https://github.com/gehado2002/YOUR_TELCO_REPO" target="_blank">
+  <a href="https://github.com/gehado2002/data-analysis/tree/main" target="_blank">
     <img src="https://img.shields.io/badge/🔗%20View%20Telco%20Project-ffd9ec?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </div>
